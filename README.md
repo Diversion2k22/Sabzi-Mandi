@@ -5,11 +5,15 @@ To run this application in your system fork this repository and using git bash c
 After forking create a new folder in your system and open the folder through terminal/powershell
 
 enter the command:-
+
 git clone YOUR_ACC_ID/eCom-App
 
 Open Android Studio and Load the project 
+
 File -> Open -> Browse the Folder
+
 Sync Gradle Files and Build the Project.
+
 ON Opening the app in emulator:-
 
 ![Alt text](Readme/on_open.png?raw=true "On Open Screen")
