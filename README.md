@@ -1,12 +1,17 @@
 # Sabzi-Mandi
-eCom App for Android BootCamp 2021
+ECommerce App for Android BootCamp 2021
+
+[Link to Day 4 Android Bootcamp](https://www.youtube.com/watch?v=Smlq15KSKtc)
+
+---
 
 To run this application in your system fork this repository and using git bash clone the repository in your local system.
 After forking create a new folder in your system and open the folder through terminal/powershell
 
-enter the command:-
-
+Enter the following command
+```
 git clone YOUR_ACC_ID/eCom-App
+```
 
 Open Android Studio and Load the project 
 
