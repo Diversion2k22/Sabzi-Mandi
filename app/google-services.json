@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923153030427",
+    "project_id": "sabzimandi-b5095",
+    "storage_bucket": "sabzimandi-b5095.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923153030427:android:be4f69ce8396b6cfb4c7be",
+        "android_client_info": {
+          "package_name": "com.example.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923153030427-gddgl772gb6m39m4av0jihhs0nijpu8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FZdUDpCQOTMxa5QJF8nbrvWGm747oXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923153030427-gddgl772gb6m39m4av0jihhs0nijpu8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
